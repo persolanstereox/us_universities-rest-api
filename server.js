@@ -15,7 +15,7 @@ mongoose.connect(MONGO_URI)
     .catch(err => console.log(err))
 
 app.get('/', (req, res) => {
-    res.send('Hello from node');
+    res.send('Node working');
 });
 
 app.use('/api/universities', univRoutes);
