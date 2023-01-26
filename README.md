@@ -1,6 +1,6 @@
 # us_universities-rest-api
 # REST API 
-This is restful API with crud functionality maded with NodeJS, MongoDB and ExpressJS
+This is restful API with crud functionality made with NodeJS, MongoDB and ExpressJS
 
 
 ## Install
