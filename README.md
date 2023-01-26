@@ -53,7 +53,7 @@ This is restful API with crud functionality made with NodeJS, MongoDB and Expres
 
 `DELETE /api/universities/id`
 
-    curl -i -H 'Accept: application/json' http://localhost:7000/thing/
+   
 
 ## Built with 
 
