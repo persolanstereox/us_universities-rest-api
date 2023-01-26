@@ -1,5 +1,5 @@
 # us_universities-rest-api
-# REST API example application
+# REST API 
 This is restful API with crud functionality maded with NodeJS, MongoDB and ExpressJS
 
 
